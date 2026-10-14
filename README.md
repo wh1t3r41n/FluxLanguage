@@ -19,3 +19,5 @@ section start {
   end_section start;
 }
 ```
+## License
+MIT by VoidOP_
